@@ -1,0 +1,15 @@
+welcome: >
+  Привет ${from.first_name}!
+
+
+help: Это подсказка.
+menu:
+  back: <Назад>
+  main: <На главную>
+  settings: Настройки
+  language: Язык
+settings:
+  body: >
+    Настройки
+  language: Выберите язык
+magic: Магии не получилось, увы
