@@ -1,3 +1,6 @@
+import {Order} from './order';
+
 export interface Session {
-	page?: number;
+	isAdmin: boolean;
+	tempOrder: Order;
 }
